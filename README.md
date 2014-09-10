@@ -1,5 +1,9 @@
 ## Friday test!
 
+This was a later Makers challenge, to pass a suite of simple unrelated tests supplied by Makers as elegantly as possible. My efforts are the method bodies in the lib/questions.rb file (comments within the method body are the recommendations given subsequently if they differ from my own approach).
+
+The rest of the readme is the original challenge as we received it:
+
 Here we're going to revisit the basics of Ruby. There are 41 questions - you don't have to do every single one (although if you can, that's great). You should be able to do at least 50% of them. They vary in level from quite easy to fairly hard. Work through them and check if they're correct by running the specs.
 
 You should be able to answer most questions with a couple of lines of code, and just a few methods. If you're writing a long, complex solution, there's probably a better way.
